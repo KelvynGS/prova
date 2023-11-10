@@ -12,7 +12,7 @@ p {
     color: #666;
 }
 p {
-    color: var(--branca);
+    color: #bb00ff;
     margin-bottom: 20px;
     font-size: 2rem;
   }
