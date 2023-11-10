@@ -11,3 +11,8 @@ h1 {
 p {
     color: #666;
 }
+p {
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
